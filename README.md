@@ -1,5 +1,6 @@
 # Disease-Prediction-Using-Symptom
 Disease Prediction Using Symptom Data
+
 Overview
 This project analyzes a medical dataset where diseases are associated with symptoms represented in binary form (0 for absent, 1 for present). The goal is to:
     -Explore and visualize symptom-disease patterns.
